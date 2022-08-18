@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "mercado": "Assaí",
+      "item": "Macarrão",
+      "marca": "Camil",
+      "preco": "5.50"
+    }
+  ]
+}
