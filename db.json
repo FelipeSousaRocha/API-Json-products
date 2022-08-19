@@ -40,6 +40,33 @@
       "item": "Arroz",
       "marca": "Camil",
       "preco": "6.25"
+    },{
+      "id": 7,
+      "mercado": "Atacadão",
+      "item": "Macarrão",
+      "marca": "Camil",
+      "preco": "3.50"
+    },
+    {
+      "id": 8,
+      "mercado": "Nordestão",
+      "item": "Feijão",
+      "marca": "Camil",
+      "preco": "5.75"
+    },
+    {
+      "id": 9,
+      "mercado": "Nordestão",
+      "item": "Arroz",
+      "marca": "Camil",
+      "preco": "4.25"
+    },
+    {
+      "id": 10,
+      "mercado": "Cantina do Zé",
+      "item": "Arroz",
+      "marca": "Camil",
+      "preco": "6.25"
     }
   ]
 }
